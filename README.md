@@ -1,9 +1,9 @@
 ### Hola colegas 👋
 
-<!--
+
 Gusto de visitar el perfil del docente 👨‍🏫 ✨ René Solis ✨.
 
-Atendiendo estudiantes de PFLC y TecTijuans:
+Atendiendo estudiantes de PFLC y TecTijuana:
 
 - 🔭 En bachillerato con informática 1 y 2 básica 
 - 🖥 ... y capacitación al trabajo con ITICS
@@ -13,4 +13,4 @@ Atendiendo estudiantes de PFLC y TecTijuans:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
