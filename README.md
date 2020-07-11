@@ -1,13 +1,13 @@
-### Hi there 👋
+### Hola colegas 👋
 
 <!--
-**IoTeacher/IoTeacher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gusto de visitar el perfil del docente 👨‍🏫 ✨ René Solis ✨.
 
-Here are some ideas to get you started:
+Atendiendo estudiantes de PFLC y TecTijuans:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 En bachillerato con informática 1 y 2 básica 
+- 🖥 ... y capacitación al trabajo con ITICS
+- 👯 I’m looking 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
