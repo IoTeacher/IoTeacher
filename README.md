@@ -30,3 +30,17 @@ Inventario maker para cursos
 - RaspberryPi 
 - kit de sensores y herramientas soldar
 
+
+
+Ejemplo Tablas en MD
+
+| Sensores 	|  X 	|  Y  	|
+|----------	|:--:	|:---:	|
+| Co2      	| 20 	|  30 	|
+| temp     	| 11 	|  27 	|
+| O2       	| 22 	| 333 	|
+
+Guias:
+https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+https://www.tablesgenerator.com/markdown_tables. PARA CREAR TABLAS
+Cooltext.com
