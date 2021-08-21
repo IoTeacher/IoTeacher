@@ -42,5 +42,8 @@ Ejemplo Tablas en MD
 
 Guias:
 https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
-https://www.tablesgenerator.com/markdown_tables. PARA CREAR TABLAS
+
+PARA CREAR TABLAS
 Cooltext.com
+
+https://www.tablesgenerator.com/markdown_tables. 
