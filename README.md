@@ -33,6 +33,7 @@ Inventario maker para cursos
 - RaspberryPi 
 - kit de sensores y herramientas soldar
 
+[![IoTeacher GitHub stats](https://github-readme-stats.vercel.app/api?username=iotacher)](https://github.com/ioteacher/github-readme-stats)
 
 
 Ejemplo Tablas en MD
