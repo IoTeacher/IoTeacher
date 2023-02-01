@@ -3,12 +3,10 @@
 <a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 
 
-![](GHLogoTMP.png)
-
-### Hola colegas 👋
+### Hola Visitantes 👋
 
 
-Gusto de visitar el perfil del docente 👨‍🏫 ✨ René Solis ✨.
+Gusto de ver el perfil del docente 👨‍🏫 ✨ René Solis ✨.
 
 Atendiendo estudiantes de PFLC y TecTijuana:
 
