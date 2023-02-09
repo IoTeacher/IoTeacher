@@ -34,13 +34,12 @@ Inventario maker para cursos
 [![IoTeacher GitHub stats](https://github-readme-stats.vercel.app/api?username=ioteacher)](https://github.com/ioteacher/github-readme-stats)
 
 
-Ejemplo Tablas en MD
-
-| Sensores 	|  X 	|  Y  	|
-|----------	|:--:	|:---:	|
-| Co2      	| 20 	|  30 	|
-| temp     	| 11 	|  27 	|
-| O2       	| 22 	| 333 	|
+| **Hora** | **Lunes**   | **Martes**   | **Miercoles** | **Jueves**   | **Viernes** |
+|:--------:|:-----------:|:------------:|:-------------:|:------------:|:-----------:|
+| 2-3pm    | 9310-SPa    | Lab I-SPa    | 9310-SPa      | 9310-SPa     | Residencias |
+| 3-4pm    | Q103-IC     | Q103-IC      | LabB-IC       | LabB-IC      | Residencias |
+| 4-5pm    | L4-Interfaz | 302-Interfaz | L4-Interfaz   | 302-Interfaz | Residencias |
+| 5-6pm    | LABb-SPb    | L2-SPa       | LABb-SPb      | L2-SPa       | Residencias |
 
 Guias:
 https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
