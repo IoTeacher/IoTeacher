@@ -52,9 +52,21 @@ https://www.tablesgenerator.com/markdown_tables.
 Bloque de Código Fuente:
 
 
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
+```csharp
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp1
+{
+    class Program
+    {
+    static void Main(string[] args)
+    {
+    }
+    }
+}
 ```
 
