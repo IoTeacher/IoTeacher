@@ -52,7 +52,7 @@ https://www.tablesgenerator.com/markdown_tables.
 Bloque de Código Fuente:
 
 
-```csharp
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -68,5 +68,5 @@ namespace ConsoleApp1
     }
     }
 }
-```
+
 
