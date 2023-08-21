@@ -18,20 +18,18 @@ Atendiendo estudiantes de PFLC y TecTijuana:
 - 😄 Y con Github Classroom apoyar al estudiante para ser efectivo, en lo requerido para producir resultados al momento y diversificar en los sistemas desktop, cloud computing y embedded systems.
 - ⚡ Sabias: Soy exalumno de la PFLC (92-95) y del TEC (95-2000, MC.2003)!
 
-Licenciamiento para los cursos:
+_Licenciamiento para estudiantes_
 - Apple University Programm beca de 200 estudiantes y dispositivo iOS
 - Amazon Web Services AWS Academy beca de $100 dlls estudiantes y $100 dlls a 👩‍🏫 docentes por curso
 - Jetbrains Suite completo de beca $450 dlls
 - Y dominio gratis por 1 año con GitHub PRO
 
 
-Inventario maker para cursos
+_Inventario maker para cursos_
 - Arduino clasico (2009-2011) Desde donaciones Freedion hasta kits 2020
 - STM32 (2011) hubo intengo pero los precios superaron espectativas.
 - RaspberryPi  (2012-2023) todos los productos.
 - kit de sensores y herramientas soldar (varios)
-
-[![IoTeacher GitHub stats](https://github-readme-stats.vercel.app/api?username=ioteacher)](https://github.com/ioteacher/github-readme-stats)
 
 # HORARIO
 | HORA | LUNES | MARTES | MIERCOLES | JUEVES |   VIERNES   |
@@ -42,17 +40,23 @@ Inventario maker para cursos
 | 5pm  | SPB   | SPB    | SPB       | SPB    |RESIDENCIA   |
 
 # GUIAS GENERALES
+
 _Guia de uso de MarkDown_
+
 https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
 _Titulares para portadas, etc_
-Cooltext.com
+
+http://cooltext.com, las imagenes deben ser referenciadas el "web crawler" verifica aquellas no registradas y las bloquea, el registro es gratis con su cuenta de correo.
 
 _Generar tabulares con MarkDown_
+
 https://www.tablesgenerator.com/markdown_tables. 
 
 _Bloque de Código Fuente en MarkDown_
+
 > Inicia con el simbolo ``` seguindo del lenguaje, al final dejar una linea y volver a poner el bloque de cierre (repetirlo)
+
 > Recuerde es por cada bloque.
 
 | Prefijo  | Lenguajes | 
@@ -62,8 +66,11 @@ _Bloque de Código Fuente en MarkDown_
 | cpp  | Leng. C++    | 
 | asm  | Ensamblador   |
 | python  | Python, CircuitPython, Micropython   | 
+| sql  | base de datos SQL   | 
 
->Para cpp, c, asm, python, bash
+
+>Asi mismo GITHUB bloquea el código poniendo formato mas amigable para el programador altamente recomendable esta habilidad recordarla. Para cpp, c, asm, python, bash y mas, ejemplo del bloque en CSharp...
+
 ```csharp
 using System;
 using System.Collections.Generic;
@@ -83,6 +90,8 @@ namespace ConsoleApp1
 ```
 # Insertar imagenes 
 ```
-!(comentario opcional)
+!(comentario opcional)[URL completo de la imagen]
+```
+
 # Deseando éxito en este semestre 2023B
 
