@@ -5,6 +5,8 @@
 
 ### Hola Visitantes 👋
 
+In my 22-year teaching tenure at Instituto Tecnologico de Tijuana, I plan to leverage GitHub to enrich the learning experience for my 80 students each semester in the Systems Engineering carrier, my area embedded development & system sensor programming. By integrating GitHub into the curriculum, students will familiarize themselves with industry-standard version control systems, promoting collaborative learning and project management. Additionally, I introduce students to available grants on GitHub Student Pack and Amazon Web Services, encouraging a culture of continuous learning and exploration. Through a blend of GitHub-based assignments and practical lab sessions, this initiative strives to equip students with real-world skills essential for their future careers in the tech industry.
+
 Agradece el tiempo  ver el perfil del docente 👨‍🏫 ✨ René Solis ✨.
 
 Atendiendo estudiantes de PFLC y TecTijuana:
