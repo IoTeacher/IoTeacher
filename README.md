@@ -39,6 +39,7 @@ Agradezco tu interés en explorar mi perfil. 🌟
 - Arduino clásico (2009-2011): Desde donaciones Freeduino hasta kits 2020.
 - STM32 (2011): Se exploró su integración pero los costos superaron las expectativas.a
 - Raspberry Pi (2012-2024): Todos los modelos, hasta la pi5 de 8 Gb instalada como servidor.
+- Raspberry Pico W RP2040 para emulacion de sensores o uso directo con C, MicroPython
 - Kit de sensores y herramientas para soldar.
 
 ### HORARIO
