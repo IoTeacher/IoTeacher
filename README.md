@@ -2,98 +2,83 @@
 
 <a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 
+### Bienvenidos a mi Perfil de GitHub 👋
 
-### Hola Visitantes 👋
+Soy René Solís, docente con 24 años de experiencia en el Instituto Tecnológico de Tijuana, especializado en desarrollo embebido y programación de sensores de sistemas. Mi objetivo es enriquecer la experiencia de aprendizaje de mis 80 estudiantes por semestre en la carrera de Ingeniería en Sistemas Computacionales, integrando GitHub en el currículo para familiarizarlos con sistemas de control de versiones de estándar industrial, promoviendo el aprendizaje colaborativo y la gestión de proyectos.
 
-In my 22-year teaching tenure at Instituto Tecnologico de Tijuana, I plan to leverage GitHub to enrich the learning experience for my 80 students each semester in the Systems Engineering carrier, my area embedded development & system sensor programming. By integrating GitHub into the curriculum, students will familiarize themselves with industry-standard version control systems, promoting collaborative learning and project management. Additionally, I introduce students to available grants on GitHub Student Pack and Amazon Web Services, encouraging a culture of continuous learning and exploration. Through a blend of GitHub-based assignments and practical lab sessions, this initiative strives to equip students with real-world skills essential for their future careers in the tech industry.
+#### 🚀 Enfocando en:
+- Integración de GitHub para el trabajo colaborativo y gestión de proyectos.
+- Presentación de becas disponibles en GitHub Student Pack y Amazon Web Services.
+- Combinación de tareas basadas en GitHub y sesiones prácticas de laboratorio.
 
-Agradece el tiempo  ver el perfil del docente 👨‍🏫 ✨ René Solis ✨.
+Agradezco tu interés en explorar mi perfil. 🌟
 
-Atendiendo estudiantes de PFLC y TecTijuana:
+#### 📚 Enseñando en:
+- Cultura Digital en bachillerato como parte de la nueva escuela mexicana.
+- Capacitación laboral con ITICS.
+- Diversas asignaturas en TecNM para ISC, LI y ITICS.
 
-- 🔭 En bachillerato  Cultura Digital (nueva escuela mexicana) 
-- 🖥 ... y capacitación al trabajo con ITICS
-- 📲 Diversas materias el TecNM para ISC, LI y ITICS
-- 🤔 Considero GitHub la herramienta excelente para el ingeniero, estandard mundial.
-- 💬 Asimismo los docentes del ambas escuelas son invitados para usarlo con cuenta Premium (PRO).
-- 📫 Todo inicia con activarlo via GitHub Starter pack son unos 70 dlls de beca por comprobar con correo institucional 
-- 😄 Y con Github Classroom apoyar al estudiante para ser efectivo, en lo requerido para producir resultados al momento y diversificar en los sistemas desktop, cloud computing y embedded systems.
-- ⚡ Sabias: Soy exalumno de la PFLC (92-95) y del TEC (95-2000, MC.2003)!
+#### 💡 Creencias:
+- GitHub es una herramienta esencial para ingenieros, un estándar mundial.
+- Incentivo a docentes de ambas instituciones a adoptar GitHub con cuentas Premium (PRO).
 
-_Licenciamiento para estudiantes_
-- Apple University Programm beca de 200 estudiantes y dispositivo iOS
-- Amazon Web Services AWS Academy beca de $100 dlls estudiantes y $100 dlls a 👩‍🏫 docentes por curso
-- Jetbrains Suite completo de beca $450 dlls
-- Y dominio gratis por 1 año con GitHub PRO
+#### 🌱 Crecimiento Continuo:
+- Activación a través del GitHub Starter Pack, valorado en aproximadamente 70 USD, verificable con correo institucional.
+- Uso de GitHub Classroom para maximizar la eficacia estudiantil en la entrega de resultados, abarcando sistemas de escritorio, computación en la nube y sistemas embebidos.
 
+#### 🎓 Experiencia Personal:
+- Orgullosamente exalumno de PFLC (92-95) y del TEC (95-2000, MC.2003).
 
-_Inventario maker para cursos_
-- Arduino clasico (2009-2011) Desde donaciones Freedion hasta kits 2020
-- STM32 (2011) hubo intengo pero los precios superaron espectativas.
-- RaspberryPi  (2012-2023) todos los productos.
-- kit de sensores y herramientas soldar (varios)
+### Licenciamiento para Estudiantes
+- Apple University Program: Beca para 200 estudiantes y dispositivo iOS.
+- Amazon Web Services (AWS) Academy: Beca de 100 USD para estudiantes y docentes por curso.
+- JetBrains Suite: Beca completa valorada en 450 USD.
+- Dominio gratuito por 1 año con GitHub PRO.
 
-# HORARIO
-| HORA | LUNES | MARTES | MIERCOLES | JUEVES |   VIERNES   |
+### Inventario Maker para Cursos
+- Arduino clásico (2009-2011): Desde donaciones Freedion hasta kits 2020.
+- STM32 (2011): Se exploró su integración pero los costos superaron las expectativas.
+- Raspberry Pi (2012-2023): Todos los modelos.
+- Kit de sensores y herramientas para soldar.
+
+### HORARIO
+| HORA | LUNES | MARTES | MIÉRCOLES | JUEVES | VIERNES      |
 |------|-------|--------|-----------|--------|-------------|
-| 2pm  | SPC   | SPC    | SPC       | SPC    |RESIDENCIA   |
-| 3pm  | IC    | IC     | IC        | IC     |RESIDENCIA   |
-| 4pm  | LDI   | LDI    | LDI       | LDI    |RESIDENCIA   |
-| 5pm  | SPB   | SPB    | SPB       | SPB    |RESIDENCIA   |
+| 2 pm | LDI    | LDI     |LDI       |LDI     | RESIDENCIA  |
+| 3 pm | LDI    |LDI      |LDI        |LDI      | RESIDENCIA  |
+| 4 pm | PDD  | PDD    | PDD       | PDD    | PDD  |
+| 5 pm | TDB   | TDB    | TDB       | TDB    | RESIDENCIA  |
 
-# GUIAS GENERALES
+### Recursos y Guías
 
-_Guia de uso de MarkDown_
+- [Guía de uso de Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+- [Generador de títulos y gráficos](http://cooltext.com)
+- [Generador de tablas Markdown](https://www.tablesgenerator.com/markdown_tables)
 
-https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
-
-_Titulares para portadas, etc_
-
-http://cooltext.com, las imagenes deben ser referenciadas el "web crawler" verifica aquellas no registradas y las bloquea, el registro es gratis con su cuenta de correo.
-
-_Generar tabulares con MarkDown_
-
-https://www.tablesgenerator.com/markdown_tables. 
-
-_Bloque de Código Fuente en MarkDown_
-
-> Inicia con el simbolo ``` seguindo del lenguaje, al final dejar una linea y volver a poner el bloque de cierre (repetirlo)
-
-> Recuerde es por cada bloque.
-
-| Prefijo  | Lenguajes | 
-|------|-------|
-| bash  | Linux ejecutables del Shell "Bash"   |
-| c  | Leng. C   | 
-| cpp  | Leng. C++    | 
-| asm  | Ensamblador   |
-| python  | Python, CircuitPython, Micropython   | 
-| sql  | base de datos SQL   | 
-
-
->Asi mismo GITHUB bloquea el código poniendo formato mas amigable para el programador altamente recomendable esta habilidad recordarla. Para cpp, c, asm, python, bash y mas, ejemplo del bloque en CSharp...
+### Bloque de Código Fuente en Markdown
+```markdown
+Para incluir código, usa tres acentos graves seguidos del lenguaje específico, y cierra el bloque de la misma manera. Ejemplo en C#:
 
 ```csharp
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
     class Program
     {
-    static void Main(string[] args)
-    {
-    }
+        static void Main(string[] args)
+        {
+            // Tu código aquí
+        }
     }
 }
 ```
-# Insertar imagenes 
-```
-!(comentario opcional)[URL completo de la imagen]
+
+### Insertar Imágenes
+Para insertar imágenes, utiliza la sintaxis Markdown:
+```markdown
+![Texto alternativo](URL_de_la_imagen)
 ```
 
-# Deseando éxito en este semestre 2023B
-
+### ¡Éxito en el semestre 2023B!
+Te des
