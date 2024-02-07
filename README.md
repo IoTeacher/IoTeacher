@@ -82,4 +82,4 @@ Para insertar imágenes, utiliza la sintaxis Markdown:
 ```
 
 ### ¡Éxito en el semestre 2023B!
-a
+
