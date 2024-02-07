@@ -27,7 +27,7 @@ Agradezco tu interés en explorar mi perfil. 🌟
 - Uso de GitHub Classroom para maximizar la eficacia estudiantil en la entrega de resultados, abarcando sistemas de escritorio, computación en la nube y sistemas embebidos.
 
 #### 🎓 Experiencia Personal:
-- Orgullosamente exalumno de PFLC (92-95) y del TEC (95-2000, MC.2003).
+- Orgullosamente exalumno de PFLC (92-95) y del TEC (95-2000) y Posgrado en Ciencias MC.2003
 
 ### Licenciamiento para Estudiantes
 - Apple University Program: Beca para 200 estudiantes y dispositivo iOS.
@@ -36,9 +36,9 @@ Agradezco tu interés en explorar mi perfil. 🌟
 - Dominio gratuito por 1 año con GitHub PRO.
 
 ### Inventario Maker para Cursos
-- Arduino clásico (2009-2011): Desde donaciones Freedion hasta kits 2020.
-- STM32 (2011): Se exploró su integración pero los costos superaron las expectativas.
-- Raspberry Pi (2012-2023): Todos los modelos.
+- Arduino clásico (2009-2011): Desde donaciones Freeduino hasta kits 2020.
+- STM32 (2011): Se exploró su integración pero los costos superaron las expectativas.a
+- Raspberry Pi (2012-2024): Todos los modelos, hasta la pi5 de 8 Gb instalada como servidor.
 - Kit de sensores y herramientas para soldar.
 
 ### HORARIO
