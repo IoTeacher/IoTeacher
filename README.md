@@ -45,10 +45,10 @@ Agradezco tu interés en explorar mi perfil. 🌟
 ### HORARIO
 | HORA | LUNES | MARTES | MIÉRCOLES | JUEVES | VIERNES      |
 |------|-------|--------|-----------|--------|-------------|
-| 2 pm | LDI    | LDI     |LDI       |LDI     | RESIDENCIA  |
+| 2 pm | LLF    | LLF     |LLF       |LLF     | RESIDENCIA  |
 | 3 pm | LDI    |LDI      |LDI        |LDI      | RESIDENCIA  |
-| 4 pm | PDD  | PDD    | PDD       | PDD    | PDD  |
-| 5 pm | TDB   | TDB    | TDB       | TDB    | RESIDENCIA  |
+| 4 pm | LDI  | LDI    | LDI       | LDI    | RESIDENCIA  |
+| 5 pm | PDD   | PDD    | PDD       | PDD    | PDD  |
 
 ### Recursos y Guías
 
@@ -81,5 +81,5 @@ Para insertar imágenes, utiliza la sintaxis Markdown:
 ![Texto alternativo](URL_de_la_imagen)
 ```
 
-### ¡Éxito en el semestre 2023B!
+### ¡Éxito en el semestre 2024B!
 
