@@ -4,7 +4,7 @@
 
 ### Bienvenidos a mi Perfil de GitHub 👋
 
-Soy René Solís, docente con 24 años de experiencia en el Instituto Tecnológico de Tijuana, especializado en desarrollo embebido y programación de sensores de sistemas. Mi objetivo es enriquecer la experiencia de aprendizaje de mis 80 estudiantes por semestre en la carrera de Ingeniería en Sistemas Computacionales, integrando GitHub en el currículo para familiarizarlos con sistemas de control de versiones de estándar industrial, promoviendo el aprendizaje colaborativo y la gestión de proyectos.
+Soy René Solís, docente con 25 años de experiencia en el Instituto Tecnológico de Tijuana, especializado en desarrollo embebido y programación de sensores de sistemas. Mi objetivo es enriquecer la experiencia de aprendizaje de mis 80 estudiantes por semestre en la carrera de Ingeniería en Sistemas Computacionales, integrando GitHub en el currículo para familiarizarlos con sistemas de control de versiones de estándar industrial, promoviendo el aprendizaje colaborativo y la gestión de proyectos.
 
 #### 🚀 Enfocando en:
 - Integración de GitHub para el trabajo colaborativo y gestión de proyectos.
@@ -45,10 +45,10 @@ Agradezco tu interés en explorar mi perfil. 🌟
 ### HORARIO
 | HORA | LUNES | MARTES | MIÉRCOLES | JUEVES | VIERNES      |
 |------|-------|--------|-----------|--------|-------------|
-| 2 pm | LLF    | LLF     |LLF       |LLF     | RESIDENCIA  |
+| 2 pm | SP    | SP     |SP       |SP     | RESIDENCIA  |
 | 3 pm | LDI    |LDI      |LDI        |LDI      | RESIDENCIA  |
 | 4 pm | LDI  | LDI    | LDI       | LDI    | RESIDENCIA  |
-| 5 pm | PDD   | PDD    | PDD       | PDD    | PDD  |
+| 5 pm | TDBD   | TDBD    | TDBD       | TDBD    | TDBD  |
 
 ### Recursos y Guías
 
