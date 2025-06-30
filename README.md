@@ -42,7 +42,7 @@ Agradezco tu interés en explorar mi perfil. 🌟
 - Raspberry Pico W RP2040 para emulacion de sensores o uso directo con C, MicroPython
 - Kit de sensores y herramientas para soldar.
 
-### HORARIO
+### HORARIO FEB-JNIO 25
 | HORA | LUNES | MARTES | MIÉRCOLES | JUEVES | VIERNES      |
 |------|-------|--------|-----------|--------|-------------|
 | 2 pm | SP    | SP     |SP       |SP     | RESIDENCIA  |
