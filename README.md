@@ -46,9 +46,9 @@ Agradezco tu interés en explorar mi perfil. 🌟
 | HORA | LUNES | MARTES | MIÉRCOLES | JUEVES | VIERNES      |
 |------|-------|--------|-----------|--------|-------------|
 | 2 pm | SP    | SP     |SP       |SP     | RESIDENCIA  |
-| 3 pm | LDI    |LDI      |LDI        |LDI      | RESIDENCIA  |
+| 3 pm | SP    |SP      |SP        |SP      | RESIDENCIA  |
 | 4 pm | LDI  | LDI    | LDI       | LDI    | RESIDENCIA  |
-| 5 pm | TDBD   | TDBD    | TDBD       | TDBD    | TDBD  |
+| 5 pm | PDD   | PDD    | PDD       | PDD    | PDD  |
 
 ### Recursos y Guías
 
