@@ -81,5 +81,5 @@ Para insertar imágenes, utiliza la sintaxis Markdown:
 ![Texto alternativo](URL_de_la_imagen)
 ```
 
-### ¡Éxito en el semestre 2025a!
+### ¡Éxito en el semestre 2025b!
 
